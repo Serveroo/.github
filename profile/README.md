@@ -53,6 +53,7 @@ Face à l'absence de solutions basiques et abordables sur le marché, nous avons
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Promtail](https://img.shields.io/badge/Promtail-F46800?logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-F6A7AA?logo=snort&logoColor=white)
 
 - Un serveur hébergé chez Azure
 
